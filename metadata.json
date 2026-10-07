@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Image Studio Pro - Web Image Editor \u0026 Canvas Studio",
+  "description": "A feature-rich web image editor supporting drawing, cropping, color adjustments, filter presets, text layers, vector shapes, layers, and exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
